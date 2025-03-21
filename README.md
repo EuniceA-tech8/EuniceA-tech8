@@ -1,5 +1,9 @@
 ## Hi there 👋
 I'm new here.
+
+##Quick word about me:
+I am a transfer college studently currently pursuing a Computer Science Major at Lehman College. As of right now, I am choosing as we speak.
+
 <!--
 **EuniceA-tech8/EuniceA-tech8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
