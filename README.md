@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-##My Coding Skills
+## My Coding Skills
 ![My Skills](https://skillicons.dev/icons?i=py,java,nodejs,anaconda,instagram,js,vscode)
 
-##If I'm ever offline, find me at:
-<a href = "www.linkedin.com/in/eunice-adu-agyei"/><img src = "https://github.com/tandfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "30" />
+## If I'm ever offline, find me at:
+<a href = "https://www.linkedin.com/in/eunice-adu-agyei"/><img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "30" />
 
 
