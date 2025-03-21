@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm new here.
 
-##Quick word about me:
+## Quick word about me:
 I am a transfer college studently currently pursuing a Computer Science Major at Lehman College. As of right now, I am choosing as we speak.
 
 <!--
