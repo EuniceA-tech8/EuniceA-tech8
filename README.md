@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm new here.
+Just coding.
 
 ## Quick word about me:
 I am a transfer senior college student studently currently pursuing a Computer Science Major at Lehman College. As of right now, I am still choosing as we speak.
