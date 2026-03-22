@@ -2,7 +2,7 @@
 Just coding.
 
 ## Quick word about me:
-I am a transfer senior college student studently currently pursuing a Computer Science Major at Lehman College. As of right now, I am still choosing as we speak.
+I am a transfer senior college student about to pursue a Computer Science Major degree at Lehman College very soon. As of right now, I am still choosing as we speak.
 
 <!--
 **EuniceA-tech8/EuniceA-tech8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
